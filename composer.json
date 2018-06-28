@@ -19,7 +19,7 @@
     "license" : "MIT",
     "require" : {
         "php" : ">=7.0",
-        "payum/core": "~1.4.0",
+        "payum/core": "~1.5.0",
         "psr/log": "~1.0",
         "symfony/options-resolver": "~3.0"
     },
